@@ -15,4 +15,14 @@ MonoBehaviour:
   actor: {fileID: 0}
   speakerSprite: {fileID: 0}
   sentence: 
-  dialogs: []
+  dialogs:
+  - actorName: 
+    profile: {fileID: 0}
+    sentence:
+      portuguese: "Ol\xE1"
+      english: Hello
+  - actorName: 
+    profile: {fileID: 0}
+    sentence:
+      portuguese: Tudo bem?
+      english: How are you?

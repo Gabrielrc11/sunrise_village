@@ -25,7 +25,7 @@ public class DialogControl : MonoBehaviour
     [Header("Settings")]
     public float typingSpeed;
 
-    private bool isShowing;
+    public bool isShowing;
     private int index;
     private string[] sentences;
 
